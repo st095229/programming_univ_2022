@@ -1,0 +1,3 @@
+/Users/a1/programming-2022_H/Homework_3_2022.10.01/generic_sort/cmake-build-debug/CMakeFiles/generic_sort.dir
+/Users/a1/programming-2022_H/Homework_3_2022.10.01/generic_sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/a1/programming-2022_H/Homework_3_2022.10.01/generic_sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

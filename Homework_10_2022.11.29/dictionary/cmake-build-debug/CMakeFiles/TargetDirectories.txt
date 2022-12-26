@@ -1,0 +1,3 @@
+/Users/a1/programming-2022_H/Homework_10_2022.11.29/dictionary/cmake-build-debug/CMakeFiles/dictionary.dir
+/Users/a1/programming-2022_H/Homework_10_2022.11.29/dictionary/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/a1/programming-2022_H/Homework_10_2022.11.29/dictionary/cmake-build-debug/CMakeFiles/rebuild_cache.dir

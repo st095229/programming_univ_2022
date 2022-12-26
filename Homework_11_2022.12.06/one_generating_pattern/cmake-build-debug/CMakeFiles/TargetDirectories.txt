@@ -1,0 +1,3 @@
+/Users/a1/Desktop/programming_univ_2022-main 2/Homework_11_2022.12.06/one_generating_pattern/cmake-build-debug/CMakeFiles/one_generating_pattern.dir
+/Users/a1/Desktop/programming_univ_2022-main 2/Homework_11_2022.12.06/one_generating_pattern/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/a1/Desktop/programming_univ_2022-main 2/Homework_11_2022.12.06/one_generating_pattern/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+# ninja log v5
+2	877	1671981292422414678	CMakeFiles/generic_sort.dir/main.cpp.o	bcc44ecd8f22b281
+877	955	1671981292504568197	generic_sort	d128a021a64fafb7
+2	926	1672065398265588144	CMakeFiles/generic_sort.dir/main.cpp.o	70d61d5c0c72a4e2
+926	1008	1672065398353885872	generic_sort	d128a021a64fafb7
+2	1136	1672066781313488893	CMakeFiles/generic_sort.dir/main.cpp.o	70d61d5c0c72a4e2
+1137	1253	1672066781441903358	generic_sort	d128a021a64fafb7

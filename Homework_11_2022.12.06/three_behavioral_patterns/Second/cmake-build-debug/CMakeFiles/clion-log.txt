@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S "/Users/a1/Desktop/programming_univ_2022-main 2/Homework_11_2022.12.06/three_behavioral_patterns/Second" -B "/Users/a1/Desktop/programming_univ_2022-main 2/Homework_11_2022.12.06/three_behavioral_patterns/Second/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/a1/Desktop/programming_univ_2022-main 2/Homework_11_2022.12.06/three_behavioral_patterns/Second/cmake-build-debug
